@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Birthday Planner</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="package1">
+        <item>A</item>
+        <item>Almak</item>
+        <item>Anlamak</item>
+        <item>Anlasmak</item>
+        <item>Anlatmak</item>
+        <item>Ayrilmak</item>
+    </string-array>
+
+</resources>
